@@ -1,17 +1,20 @@
 ### fantastic-octo-carnival
-=========================
+
 
 ###  Android tutorials repository
-----------------------------
+
 
 I'm placing my android tutorial code here.
 
 
 ### Tutorial 1
-===========
+
+***
+
 First project will be on google geo fenching
 
-1. [Getting last know location](https://github.com/AlaminBhuian/fantastic-octo-carnival)
+1. [Getting last know location](https://developer.android.com/training/location/retrieve-current.html#last-known)
+	
 	Steps are . . . 
 
 	* Set Up Google Play Services
